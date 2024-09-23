@@ -1,4 +1,4 @@
-# 🚀 Todo List Application
+# 🚀 Taskify Todo List Application
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/PriyanshuGupta28/Taskify/CI)
 ![License](https://img.shields.io/github/license/PriyanshuGupta28/Taskify)
