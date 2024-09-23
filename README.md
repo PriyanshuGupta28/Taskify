@@ -5,7 +5,7 @@
 ![Vercel](https://img.shields.io/vercel/status/priyanshu-guptas-projects-77a50415)
 ![GitHub stars](https://img.shields.io/github/stars/PriyanshuGupta28/Taskify?style=social)
 
-![Todo List App Screenshot](./assets/ss.png)
+![Todo List App Screenshot](./src/assets/ss.png)
 
 Welcome to the **Todo List Application**, a robust and user-friendly platform built with **React**, **TypeScript**, **Material-UI (MUI)**, and **Vite**. This application leverages **Firebase** for authentication and real-time data management, ensuring a seamless and secure experience for managing your daily tasks. Deployed on **Vercel** and version-controlled on **GitHub**, this app is designed for both performance and scalability.
 
